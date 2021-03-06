@@ -1,2 +1,0 @@
-# serverless-recipes
-Begin app
